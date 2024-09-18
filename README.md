@@ -1,7 +1,6 @@
 <h3>Currency Converter</h3>
 <p>Project Overview: This Currency Converter application allows users to convert amounts between various currencies in real-time.
-  <br>
-  Built using HTML, CSS, and JavaScript, the project leverages an external API to fetch live exchange rates, providing accurate and up-to-date currency conversion.</p>
+  </p>
 
 <ul><li>Key Features:</li>
 <ul><li>Real-Time Conversion: Fetches the latest exchange rates using an external API.</li>
